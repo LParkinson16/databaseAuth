@@ -1,0 +1,26 @@
+{
+  "name": "databaseAuth",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LParkinson16/databaseAuthentication.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LParkinson16/databaseAuthentication/issues"
+  },
+  "homepage": "https://github.com/LParkinson16/databaseAuthentication#readme",
+  "devDependencies": {
+    "bcrypt": "^5.0.1",
+    "express": "^4.17.1",
+    "sequelize": "^6.6.5",
+    "sqlite3": "^5.0.2"
+  }
+}
